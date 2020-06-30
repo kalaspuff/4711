@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "4711"
-version = "0.0.1"
+version = "0.0.2"
 description = "A collection of CLI tools for working with data structures, parsing and formatting"
 authors = ["Carl Oscar Aaro <hello@carloscar.com>"]
 homepage = "https://github.com/kalaspuff/4711"
