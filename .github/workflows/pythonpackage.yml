@@ -28,9 +28,6 @@ jobs:
     - name: Lint with flake8
       run: |
         poetry run flake8 _4711/ tests/
-    - name: Type check with mypy
-      run: |
-        poetry run mypy _4711/
     - name: Codecov
       run: |
         poetry run codecov --token=${{ secrets.CODECOV_TOKEN }}
