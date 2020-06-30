@@ -5,7 +5,6 @@
 [![pypi](https://badge.fury.io/py/4711.svg)](https://pypi.python.org/pypi/4711/)
 [![Made with Python](https://img.shields.io/pypi/pyversions/4711)](https://www.python.org/)
 [![MIT License](https://img.shields.io/github/license/kalaspuff/4711.svg)](https://github.com/kalaspuff/4711/blob/master/LICENSE)
-[![Code coverage](https://codecov.io/gh/kalaspuff/4711/branch/master/graph/badge.svg)](https://codecov.io/gh/kalaspuff/4711/tree/master/4711)
 
 
 In this case however, `4711` isn't just a number. It's a CLI tool (or collection CLI tools if you wish) for working with data structures, parsing values, handling conversion and formatting the output. It's written in Python, but doesn't require any extensive Python knowledge for use.
