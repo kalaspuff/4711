@@ -28,5 +28,4 @@ $ pip install 4711
 #### Use-case
 ```
 $ 4711 --help
-
 ```
