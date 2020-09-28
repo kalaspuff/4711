@@ -19,10 +19,10 @@ version:
 	poetry version `python _4711/__version__.py`
 
 black:
-	poetry run black -l 120 _4711/ tests/
+	poetry run black _4711/ tests/
 
 isort:
-	poetry run isort -rc _4711/ tests/
+	poetry run isort _4711/ tests/
 
 build:
 	rm -rf dist/
