@@ -1,6 +1,6 @@
 # `4711`
 
-**`4711` is a natural number that follows `4710` and that is followed by `4712`. It's somewhat of "a large arbitrary number".**
+**`4711` is a natural number that follows `4710` and that is followed by `4712`. It's also "a large arbitrary number".**
 
 [![pypi](https://badge.fury.io/py/4711.svg)](https://pypi.python.org/pypi/4711/)
 [![Made with Python](https://img.shields.io/pypi/pyversions/4711)](https://www.python.org/)
